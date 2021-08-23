@@ -376,4 +376,4 @@
 - [ ] Open mmc.exe
 - [ ] Run dcpromo.exe
 - [ ] Click Add Roles and Features.
-- [ ] Click the notification flag in the Server Manager windows.
+- [x] Click the notification flag in the Server Manager windows.
